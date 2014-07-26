@@ -1,6 +1,6 @@
 package org.shopistan.agent;
 import org.apache.log4j.Logger;
-
+Agent X, Agent Y
 public class Agent
 {
 	
